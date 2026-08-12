@@ -49,7 +49,7 @@
 
 | 분야 | 관련 기술 스택 | 핵심 성과 및 시각화 |
 | :-- | :-- | :-- |
-| **[프로젝트명 3 요약]**<br>*(예: 노션 AI 기반 뉴스 자동화 크롤러)* | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Notion API](https://img.shields.io/badge/-Notion_API-000000?style=flat-square&logo=notion) | <ul><li>반도체/IT 주요 뉴스 소스를 주기적으로 수집하는 비동기 크롤러 개발</li><li>Notion API를 연동하여 크롤링한 데이터를 데이터베이스 페이지에 자동 업로드 및 요약 파이프라인 구축</li><li>개인화된 최신 기술 동향 아카이브 자동화 시스템 구현</li></ul><br>*(여기에 크롤링 아키텍처 다이어그램이나 노션에 데이터가 쌓인 스크린샷을 넣으면 좋습니다)* |
+| **[프로젝트명 3 요약]**<br>*(예: 노션 AI 기반 뉴스 자동화 크롤러)* | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Notion API](https://img.shields.io/badge/-Notion_API-000000?style=flat-square&logo=notion) | <ul><li>반도체/IT 주요 뉴스 소스를 주기적으로 수집하는 비동기 크롤러 개발</li><li>Notion API를 연동하여 크롤링한 데이터를 데이터베이스 페이지에 자동 업로드 및 요약 파이프라인 구축</li><li>개인화된 최신 기술 동향 아카이브 자동화 시스템 구현</li></ul><br>*(스크린샷)* |
 
 ---
 
@@ -64,5 +64,4 @@
 ## 🤝 Let's Connect
 부족한 점이 많지만 끊임없이 배우고 성장하는 엔지니어가 되겠습니다. 언제든지 편하게 연락 주시거나 커피챗을 요청해 주세요.
 
-[![Notion](https://img.shields.io/badge/Notion-💾%20더%20깊은%20이야기-000000?style=for-the-badge&logo=notion)](여기에_노션_페이지_링크를_넣으세요)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼%20프로필-0077B5?style=for-the-badge&logo=linkedin)](여기에_링크트리인_링크를_넣으세요)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼%20프로필-0077B5?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/feed/
