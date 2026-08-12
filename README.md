@@ -4,9 +4,9 @@
 
 반도체 산업의 초미세화와 패키징 기술 혁신의 중심에서 데이터 분석을 통해 수율과 품질을 확보하는 역량을 키우고 있습니다. 단순히 코드를 작성하는 것을 넘어 "데이터를 통해 공정의 물리적 현상을 해석하고 문제 해결을 주도하는 엔지니어"가 되는 것이 목표입니다.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=ahnminah0606&countColor=%2337d67a)](https://visitorbadge.io/status?path=[당신의깃허브아이디])
-[![Notion](https://img.shields.io/badge/Notion-💾%20나의%20아카이브-000000?style=for-the-badge&logo=notion)](여기에_노션_페이지_링크를_넣으세요)
-[![Email](https://img.shields.io/badge/Email-📧%20연락하기-EA4335?style=for-the-badge&logo=gmail)](mailto:minahahn5007@gmail.com)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ahnminah0606&countColor=%2337d67a)](https://visitorbadge.io/status?path=ahnminah0606)
+[![Notion](https://img.shields.io/badge/Notion-💾아카이브-000000?style=for-the-badge&logo=notion)](여기에_노션_페이지_링크를_넣으세요)
+[![Email](https://img.shields.io/badge/Email-📧%20메일-EA4335?style=for-the-badge&logo=gmail)](mailto:minahahn5007@gmail.com)
 
 ---
 
