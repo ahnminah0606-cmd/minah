@@ -64,4 +64,4 @@
 ## 🤝 Let's Connect
 부족한 점이 많지만 끊임없이 배우고 성장하는 엔지니어가 되겠습니다. 언제든지 편하게 연락 주시거나 커피챗을 요청해 주세요.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼%20프로필-0077B5?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/feed/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼%20프로필-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)
